@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\TextoEditor\bin\Debug\net7.0\TextoEditor.exe
+C:\Users\lucas\Desktop\TextoEditor\bin\Debug\net7.0\TextoEditor.deps.json
+C:\Users\lucas\Desktop\TextoEditor\bin\Debug\net7.0\TextoEditor.runtimeconfig.json
+C:\Users\lucas\Desktop\TextoEditor\bin\Debug\net7.0\TextoEditor.dll
+C:\Users\lucas\Desktop\TextoEditor\bin\Debug\net7.0\TextoEditor.pdb
+C:\Users\lucas\Desktop\TextoEditor\obj\Debug\net7.0\TextoEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\TextoEditor\obj\Debug\net7.0\TextoEditor.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\TextoEditor\obj\Debug\net7.0\TextoEditor.AssemblyInfo.cs
+C:\Users\lucas\Desktop\TextoEditor\obj\Debug\net7.0\TextoEditor.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\TextoEditor\obj\Debug\net7.0\TextoEditor.dll
+C:\Users\lucas\Desktop\TextoEditor\obj\Debug\net7.0\refint\TextoEditor.dll
+C:\Users\lucas\Desktop\TextoEditor\obj\Debug\net7.0\TextoEditor.pdb
+C:\Users\lucas\Desktop\TextoEditor\obj\Debug\net7.0\TextoEditor.genruntimeconfig.cache
+C:\Users\lucas\Desktop\TextoEditor\obj\Debug\net7.0\ref\TextoEditor.dll
